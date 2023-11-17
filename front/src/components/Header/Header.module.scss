@@ -1,0 +1,11 @@
+.header_wrapper {
+  @apply flex justify-end;
+
+  span {
+    @apply p-1 rounded-md hover:bg-neutral-200 transition-colors duration-300 m-0.5;
+  }
+
+  .buttons {
+    @apply opacity-50;
+  }
+}

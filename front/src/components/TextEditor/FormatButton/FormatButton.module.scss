@@ -1,0 +1,7 @@
+.isActive {
+  @apply flex items-center justify-center p-2 bg-neutral-200 rounded-lg opacity-100;
+}
+
+.isNotActive {
+  @apply opacity-50 flex items-center justify-center p-2 hover:bg-neutral-200 rounded-lg hover:opacity-100 duration-300 transition-all;
+}

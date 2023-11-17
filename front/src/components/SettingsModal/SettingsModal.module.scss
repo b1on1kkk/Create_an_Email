@@ -1,0 +1,3 @@
+.friends_modal {
+  @apply absolute flex p-2 bg-letter_bg shadow-xl rounded-lg translate-x-modal_change_style duration-300 gap-2 z-20 flex-col w-settings_block select-none;
+}

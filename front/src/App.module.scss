@@ -1,0 +1,15 @@
+.letter {
+  @apply bg-letter_bg shadow-2xl rounded-xl duration-300 ease-out w-small_letter_width min-h-small_letter_height flex flex-col relative;
+}
+
+.expand_letter {
+  @apply bg-letter_bg shadow-2xl rounded-xl duration-300 ease-out w-big_letter_width min-h-big_letter_height flex flex-col;
+}
+
+.text_area_wrapper {
+  @apply overflow-auto flex p-1 h-full;
+}
+
+.friends_modal {
+  @apply absolute flex p-2 bg-letter_bg shadow-xl rounded-lg translate-x-modal_change_style duration-300 gap-2 z-20 flex-col w-modal_friends select-none;
+}

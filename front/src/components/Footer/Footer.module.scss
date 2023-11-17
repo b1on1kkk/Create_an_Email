@@ -1,0 +1,16 @@
+.footer_wrapper {
+  @apply h-footer bg-warmGray-200 rounded-b-xl flex p-5 items-center gap-4;
+
+  .buttons {
+    @apply hover:bg-warmGray-300 transition-colors duration-300 p-1 rounded-md;
+  }
+
+  .send_button {
+    @apply w-footer_send_button flex px-5 py-2 bg-black rounded-xl justify-between shadow-2xl
+     hover:bg-warmGray-800 duration-300 ease-out select-none cursor-pointer;
+  }
+
+  .emoji_modal {
+    @apply absolute p-2 bg-letter_bg shadow-xl rounded-lg translate-x-modal_change_style duration-300 gap-2 z-20 w-modal_friends h-text_box select-none overflow-auto;
+  }
+}

@@ -1,0 +1,8 @@
+.emoji_modal {
+  @apply absolute p-2 bg-letter_bg shadow-xl rounded-lg translate-x-modal_change_style duration-300 gap-2 z-20 w-modal_friends h-text_box select-none overflow-auto
+  scrollbar-thin scrollbar-thumb-gray-200 scroll-py-5;
+}
+
+.emoji_styles {
+  @apply p-1 inline-flex rounded-lg min-w-[30px] items-center justify-center hover:bg-warmGray-300 transition-colors duration-300;
+}

@@ -1,0 +1,15 @@
+.close_modal {
+  @apply absolute flex items-center p-2 bg-letter_bg shadow-xl rounded-lg translate-x-modal_change_style_close duration-300 -z-10 gap-1 opacity-0;
+}
+
+.open_modal {
+  @apply absolute flex items-center p-2 bg-letter_bg shadow-xl rounded-lg translate-x-modal_change_style duration-300 gap-1 z-20;
+}
+
+.drop_down {
+  @apply opacity-50 font-semibold flex items-center justify-center p-1 gap-1 mr-1;
+}
+
+.icon_style {
+  @apply opacity-50 flex items-center justify-center p-2 hover:bg-neutral-200 rounded-lg hover:opacity-100 duration-300 transition-all;
+}

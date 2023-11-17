@@ -1,0 +1,15 @@
+.input {
+  @apply bg-letter_bg outline-none ml-2;
+}
+
+.fake_input {
+  @apply text-slate-500 ml-3 select-none cursor-pointer;
+}
+
+.wrong_email {
+  @apply border-1 border-red-500 rounded-full flex items-center gap-2 px-2 mb-1;
+}
+
+.correct_email {
+  @apply bg-coolGray-200 rounded-full flex items-center gap-2 px-2 mb-1;
+}
