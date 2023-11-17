@@ -19,18 +19,17 @@ Yes, it's different in some ways, but the main problem (message) it solves.
 ## Functionality
 At a glance you do not underestand where you can customise and disable/enable some functionality, but just click to three vertical dots and setting menu will be opened.
 
+Here you can see switchers which disable/enable some functionality as menu for setting up emojies, file adding functionality and template clearing
 ![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/51f67ba2-58f0-454a-988d-104479500643)
 
-Here you can see switchers which disable/enable some functionality as menu for setting up emojies, file adding functionality and template clearing
-
 By default you see only file adding functionality, another - disabled
-
 ![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/95b73da3-4ab1-45ab-baaa-3d3879fbf72a)
 
-Also, if you type '@' in the input letter field you will get list of friends (this people are not real, as their emails, just example how it can looks like. also, data of each people came from database by a simple API request)
+Emoji menu looks simple as its functionality
+![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/29d9f34f-68af-486b-9906-fc6035995885)
 
+Also, if you type '@' in the input letter field you will get list of friends (this people are not real, as their emails, just example how it can looks like. also, data of each people came from database by a simple API request)
 ![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/20ac6851-de19-4a07-a969-9d17f0d8fe2a)
 
 If you are not satisfied with the size of the letter, you can easily expand letter template
-
 ![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/8821ab4d-a04c-4f27-baa6-6e111947366d)
