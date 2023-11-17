@@ -29,7 +29,7 @@ Emoji menu looks simple as its functionality
 ![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/29d9f34f-68af-486b-9906-fc6035995885)
 
 Also, if you type '@' in the input letter field you will get list of friends (this people are not real, as their emails, just example how it can looks like. also, data of each people came from database by a simple API request)
-![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/20ac6851-de19-4a07-a969-9d17f0d8fe2a)
+![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/df85eb09-ffcc-4da0-9223-62f3b983c781)
 
 If you are not satisfied with the size of the letter, you can easily expand letter template
 ![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/8821ab4d-a04c-4f27-baa6-6e111947366d)
