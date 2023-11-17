@@ -33,3 +33,11 @@ Also, if you type '@' in the input letter field you will get list of friends (th
 
 If you are not satisfied with the size of the letter, you can easily expand letter template
 ![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/8821ab4d-a04c-4f27-baa6-6e111947366d)
+
+
+## Conclusion
+This project was not hard as I thought but it gave the experience working with Draft-js input field and its build in functionality.
+
+And finally here how all functionality looks like together:
+
+![image](https://github.com/b1on1kkk/Create_an_Email/assets/114521829/a17c97cf-8f51-491e-b010-0ea3f3d4f611)
