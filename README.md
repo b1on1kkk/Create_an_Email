@@ -36,7 +36,7 @@ If you are not satisfied with the size of the letter, you can easily expand lett
 
 
 ## Conclusion
-This project was not hard as I thought but it gave the experience working with Draft-js input field and its build in functionality.
+This project was not hard as I thought but it gave experience of working with Draft-js input field and its build in functionality.
 
 And finally here how all functionality looks like together:
 
